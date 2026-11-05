@@ -1,6 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 ## Name : RAJASHRI I
 ## Register Number : 212224040261
+## Date : 04-11-2026
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
